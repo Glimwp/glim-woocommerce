@@ -20,13 +20,13 @@ The **GLIM: WooCommerce** is a WordPress plugin designed to extend the functiona
 
 1. Ensure that our theme is already installed and activated.
 2. Make sure the WooCommerce plugin is installed and activated.
-3. Activate the WCA: WooCommerce plugin.
+3. Activate the GLIM: WooCommerce plugin.
 4. The plugin will automatically bridge the gap between your theme and WooCommerce, enhancing the plugin functionality within our theme.
 5. Utilize the additional features and options provided by the plugin to customize and optimize your store.
 
 ## Configuration
 
-The WCA: WooCommerce plugin does not require any additional configuration. Once activated, it seamlessly integrates with your theme and WooCommerce.
+The GLIM: WooCommerce plugin does not require any additional configuration. Once activated, it seamlessly integrates with your theme and WooCommerce.
 
 ## Support
 
@@ -34,7 +34,7 @@ For support and assistance, please reach out to our dedicated support team at [c
 
 ## Contributing
 
-We welcome contributions from the community to enhance the WCA: WooCommerce. To contribute, follow these steps:
+We welcome contributions from the community to enhance the GLIM: WooCommerce. To contribute, follow these steps:
 
 1. Fork the repository on GitHub.
 2. Create a new branch from the `development` branch.
@@ -46,14 +46,14 @@ Please ensure that your contributions adhere to the [WordPress coding standards]
 
 ## License
 
-The WCA: WooCommerce plugin is released under the [GPL License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+The GLIM: WooCommerce plugin is released under the [GPL License](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ## Changelog
 
 ### 1.0.0
 
-- Initial release of the WCA: WooCommerce.
+- Initial release of the GLIM: WooCommerce.
 
 ## Credits
 
-The WCA: WooCommerce plugin is developed and maintained by [GlimFSE](https://glimfse.com). We would like to thank the WordPress community and contributors for their valuable resources and support.
+The GLIM: WooCommerce plugin is developed and maintained by [GlimFSE](https://glimfse.com). We would like to thank the WordPress community and contributors for their valuable resources and support.

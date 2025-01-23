@@ -1,0 +1,223 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GLIM: WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-09 04:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: glim-woocommerce"
+
+#: frontend/blocks/product/class-rating.php:99
+#, php-format
+msgid "%s of the customers recommend the product"
+msgstr ""
+
+#: frontend/class-patterns.php:48 frontend/class-patterns.php:51
+msgid "Active Filters"
+msgstr ""
+
+#: admin/class-ajax.php:132
+msgid "All templates have failed to install."
+msgstr ""
+
+#: admin/class-ajax.php:128
+msgid ""
+"All templates installed successfully. You can customize them in Site Editor."
+msgstr ""
+
+#: admin/class-admin.php:99
+msgid "Awesome, GLIM: WooCommerce extension is activated!"
+msgstr ""
+
+#. Author of the plugin
+msgid "Bican Marian Valeriu"
+msgstr ""
+
+#: frontend/class-patterns.php:302
+msgid "Browse the store"
+msgstr ""
+
+#: frontend/class-patterns.php:226
+msgid "Cart"
+msgstr ""
+
+#: frontend/class-patterns.php:259
+msgid "Cart Total"
+msgstr ""
+
+#: frontend/class-patterns.php:322
+msgid "Checkout"
+msgstr ""
+
+#: frontend/class-patterns.php:162 frontend/class-patterns.php:165
+msgid "Color filter"
+msgstr ""
+
+#: frontend/blocks/product/class-price.php:205
+#: frontend/blocks/product/class-price.php:224
+msgid "Enter the price recommended by the manufacturer."
+msgstr ""
+
+#: frontend/class-patterns.php:147
+msgid "Filters"
+msgstr ""
+
+#: admin/class-admin.php:302
+msgid "Give it a star on GitHub"
+msgstr ""
+
+#: admin/class-admin.php:100
+msgid "Go to Theme Options in order to setup your preferences."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/Glimwp/glim-woocommerce"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.glimfse.com/about/"
+msgstr ""
+
+#: admin/class-admin.php:323
+msgid "Navigate to the extension settings."
+msgstr ""
+
+#: frontend/class-patterns.php:309
+msgid "New in store"
+msgstr ""
+
+#: admin/class-ajax.php:68
+msgid "Please define an action type."
+msgstr ""
+
+#: admin/class-admin.php:236
+msgid "Plugin reactivated successfully."
+msgstr ""
+
+#: frontend/class-patterns.php:151 frontend/class-patterns.php:154
+msgid "Price filter"
+msgstr ""
+
+#: frontend/class-patterns.php:30
+msgid "Product Item"
+msgstr ""
+
+#: frontend/class-patterns.php:83
+msgid "Query (Products - Search)"
+msgstr ""
+
+#: frontend/class-patterns.php:200
+msgid "Query (Products - Section)"
+msgstr ""
+
+#: frontend/class-patterns.php:108
+msgid "Query (Products - Taxonomy)"
+msgstr ""
+
+#: frontend/class-patterns.php:43
+msgid "Query (Products)"
+msgstr ""
+
+#: frontend/class-patterns.php:187
+msgid "Rating filter"
+msgstr ""
+
+#: frontend/blocks/product/class-price.php:203
+#: frontend/blocks/product/class-price.php:221
+#, php-format
+msgid "Recommended price (%s)"
+msgstr ""
+
+#: admin/class-admin.php:279
+msgid "release page"
+msgstr ""
+
+#: admin/class-admin.php:324
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:102
+msgid "Show me the options!"
+msgstr ""
+
+#: includes/ajax.php:159 includes/ajax.php:197
+msgid "Something went wrong."
+msgstr ""
+
+#: admin/class-admin.php:303
+msgid "Star on GitHub"
+msgstr ""
+
+#: frontend/class-patterns.php:173 frontend/class-patterns.php:176
+msgid "Stock filter"
+msgstr ""
+
+#: admin/class-ajax.php:58
+msgid "Templates array is empty."
+msgstr ""
+
+#: includes/ajax.php:159
+msgid "The comment has been sent."
+msgstr ""
+
+#: admin/class-admin.php:235
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+#: includes/ajax.php:197
+msgid "The review has been sent."
+msgstr ""
+
+#: includes/class-activator.php:71
+msgid ""
+"This extension requires GlimFSE Framework (or a skin) installed and active."
+msgstr ""
+
+#: includes/class-activator.php:72
+msgid "This extension requires WooCommerce plugin installed and active."
+msgstr ""
+
+#: frontend/blocks/product/class-price.php:118
+msgid ""
+"This is the manufacturer's recommended price. The selling price of the "
+"product is shown below."
+msgstr ""
+
+#: admin/class-admin.php:275
+#, php-format
+msgid ""
+"To read the change history for the latest plugin release, please go to the "
+"%s."
+msgstr ""
+
+#. Description of the plugin
+msgid "GLIM WooCommerce extension for GlimFSE Framework theme."
+msgstr ""
+
+#. Name of the plugin
+msgid "GLIM: WooCommerce"
+msgstr ""
+
+#: frontend/blocks/account/class-link.php:156
+#, php-format
+msgid "Welcome %s"
+msgstr ""
+
+#: frontend/class-patterns.php:246
+msgid "You might also like"
+msgstr ""
+
+#: frontend/class-patterns.php:298
+msgid "Your cart is empty!"
+msgstr ""
