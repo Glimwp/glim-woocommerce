@@ -1,6 +1,6 @@
 # GLIM: WooCommerce
 
-The **WCA: WooCommerce** is a WordPress plugin designed to extend the functionality of your theme and provide seamless integration between the theme and the WooCommerce plugin. It enhances the capabilities of your theme by providing additional features and options for WooCommerce.
+The **GLIM: WooCommerce** is a WordPress plugin designed to extend the functionality of your theme and provide seamless integration between the theme and the WooCommerce plugin. It enhances the capabilities of your theme by providing additional features and options for WooCommerce.
 
 ## Features
 
